@@ -7,10 +7,13 @@
 - **Real-time Messaging**: Chat with other users instantly using Firestore's real-time capabilities.
 - **Cross-Platform**: Available on both Android and iOS.
 - **User Authentication**: Secure authentication using Firebase Auth (Email/Password).
-- **Media Sharing**: Share images and videos in chat.
-- **Push Notifications**: Get notified when you receive new messages.
 - **Clean & Modern UI**: Designed with a focus on user experience.
 
+## 🛠️ TODO
+
+- **Media Sharing**: Share images and videos in chat.
+- **Push Notifications**: Get notified when you receive new messages.
+- 
 ## 🛠️ Technologies Used
 
 - **Flutter**: For building the cross-platform user interface.
@@ -63,13 +66,13 @@ https://github.com/user-attachments/assets/b4542245-7517-48af-b064-25d90fbeb974
      ```bash
   
     flutter run
-##🤝 Contributing
+🤝 Contributing
 Contributions are always welcome! If you want to contribute to this project, feel free to open a pull request.
 
-##📜 License
+📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##💬 Contact
+💬 Contact
 If you have any questions or suggestions, feel free to reach out to me:
 
 Email: codewithmohitofficial@gmail.com
